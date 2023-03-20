@@ -2,7 +2,7 @@
 
 Я Кокин Игорь, выпускник Нетологии по направлению "Аналитик данных"
 
-Мое [Резюме](https://docs.google.com/document/d/1J3i9hTJB0MfPPpBXRX-6NiUNsQfdL3oNVtVSQnFxWS8/edit?usp=sharing)
+Мое [резюме](https://docs.google.com/document/d/1J3i9hTJB0MfPPpBXRX-6NiUNsQfdL3oNVtVSQnFxWS8/edit?usp=sharing)
 
 ## Мои навыки:
 
